@@ -121,6 +121,7 @@
         </div>
     </div>
 </div>
+hahah
 <script type="text/javascript" src="example1.min.js"></script>
 <script type="text/javascript" src="plugins/jqplot.categoryAxisRenderer.min.js"></script>
 <script type="text/javascript" src="plugins/jqplot.canvasAxisLabelRenderer.min.js"></script>
